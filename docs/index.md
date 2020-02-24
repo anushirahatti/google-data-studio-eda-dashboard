@@ -64,7 +64,7 @@ Dashboards:
 
 **Screenshot of Dashboard with explanation:**
 
-![Dashboard](https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/images/1.png)
+![Dashboard](https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/images/1.PNG)
 
 
 
@@ -72,7 +72,7 @@ Dashboards:
 
 **1. SOP and LOR Scores vs Chances of Admit**
 
-![SOP and LOR Scores vs Chances of Admit](https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/images/2.png)
+![SOP and LOR Scores vs Chances of Admit](https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/images/2.PNG)
 
 **Explanation:**
 
@@ -85,7 +85,7 @@ more than the impact of the LOR.
 
 **2. GRE and TOEFL Scores vs Chances of Admit**
 
-![GRE and TOEFL Scores vs Chances of Admit](https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/images/3.png)
+![GRE and TOEFL Scores vs Chances of Admit](https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/images/3.PNG)
 
 **Explanation:**
 
@@ -101,7 +101,7 @@ determining the chances of admission than the TOEFL scores.
 
 **3. CGPA vs Chances of Admit**
 
-![CGPA vs Chances of Admit](https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/images/4.png)
+![CGPA vs Chances of Admit](https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/images/4.PNG)
 
 **Explanation:**
 
@@ -116,7 +116,7 @@ is being fitted to the equation of a linear line.
 
 **4. Chances of Admit w.r.t to university rating**
 
-![Chances of Admit w.r.t to university rating](https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/images/5.png)
+![Chances of Admit w.r.t to university rating](https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/images/5.PNG)
 
 **Explanation:**
 

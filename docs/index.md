@@ -11,7 +11,7 @@ Kumar Thallada, Sarang Padalkar.
 
 **Summary:**
 
-We have chosen the ​Graduate Admissions dataset to perform Exploratory Data
+We have chosen the Graduate Admissions dataset to perform Exploratory Data
 Analysis (EDA) and create Dashboards using Google Data Studio.
 
 **Description of domain:**
@@ -38,7 +38,7 @@ and float which are considered important during the application process:
 7. Research Experience (either 0 or 1)
 8. Chance of Admit (ranging from 0 to 1)
 
-Link to Kaggle Dataset: ​https://www.kaggle.com/mohansacharya/graduate-admissions
+Link to Kaggle Dataset: https://www.kaggle.com/mohansacharya/graduate-admissions
 
 
 **Steps Completed:**

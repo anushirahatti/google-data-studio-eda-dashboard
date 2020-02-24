@@ -64,6 +64,8 @@ Dashboards:
 
 **Screenshot of Dashboard with explanation:**
 
+![Dashboard](images/1.jpg)
+
 
 **1. SOP and LOR Scores vs Chances of Admit**
 

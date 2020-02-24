@@ -69,6 +69,7 @@ Dashboards:
 
 
 **1. SOP and LOR Scores vs Chances of Admit**
+
 ![SOP and LOR Scores vs Chances of Admit](https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/images/2.jpg)
 
 **Explanation:**
@@ -79,6 +80,7 @@ we can also observe that the impact of SOP on getting the chances of admission i
 more than the impact of the LOR.
 
 **2. GRE and TOEFL Scores vs Chances of Admit**
+
 ![GRE and TOEFL Scores vs Chances of Admit](https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/images/3.jpg)
 
 **Explanation:**
@@ -92,6 +94,7 @@ From this plot, we can infer that the GRE Scores play a major role as a variable
 determining the chances of admission than the TOEFL scores.
 
 **3. CGPA vs Chances of Admit**
+
 ![CGPA vs Chances of Admit](https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/images/4.jpg)
 
 **Explanation:**
@@ -104,6 +107,7 @@ consideration for plotting, ranges from 7.0 to 10. A linear trendline shows how 
 is being fitted to the equation of a linear line.
 
 **4. Chances of Admit w.r.t to university rating**
+
 ![Chances of Admit w.r.t to university rating](https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/images/5.jpg)
 
 **Explanation:**

@@ -122,9 +122,8 @@ gives them a fair idea about their chances of getting an admit to a particular u
 
 **Citation:**
 
-**1. https://www.qwiklabs.com/focuses/1157?parent=catalog
+1. https://www.qwiklabs.com/focuses/1157?parent=catalog
 2. https://www.qwiklabs.com/focuses/1156?parent=catalog
 3. https://www.qwiklabs.com/focuses/1158?parent=catalog
 4. https://www.kaggle.com/mohansacharya/graduate-admissions
-5. https://github.com/GoogleCloudPlatform/data-science-on-gcp/tree/master/**
-    **3_sqlstudio**
+5. https://github.com/GoogleCloudPlatform/data-science-on-gcp/tree/master/3_sqlstudio

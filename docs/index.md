@@ -64,7 +64,7 @@ Dashboards:
 
 **Screenshot of Dashboard with explanation:**
 
-<img src="https://github.com/anushirahatti/google-data-studio-eda-dashboard/blob/master/docs/1.jpg">
+<img src="1.jpg">
 
 
 
